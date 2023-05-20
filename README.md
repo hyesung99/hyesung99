@@ -8,9 +8,9 @@
 
 </div>
 
-<div align=center><h3>Algoritm</h3></div>
+<div align=center><h3>Algoritm</h3>
 
-<div aligh=center>
+
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=4538asd)](https://solved.ac/4538asd)<br/>  
 
