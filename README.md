@@ -1,13 +1,11 @@
-<div align="center">
-  <p align="center">Stat</p>
-  
-  ![Hyesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesung99&show_icons=true&theme=gruvbox)
-  #
-  Algoritm
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=4538asd)](https://solved.ac/4538asd)
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 
 </div>
-
 <br><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
