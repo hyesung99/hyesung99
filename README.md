@@ -12,7 +12,7 @@
 
 <div aligh=center>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=4538asd)](https://solved.ac/4538asd)<br/>  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=4538asd)](https://solved.ac/4538asd)<br/>  
 
 </div>
 
