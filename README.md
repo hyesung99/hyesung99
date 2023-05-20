@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 </div>
-<br><br><br>
+
 <div align=center><h3>Algoritm</h3></div>
 
 <div aligh=center>
@@ -16,5 +16,3 @@
 
 </div>
 
-
-<br><br><br>
