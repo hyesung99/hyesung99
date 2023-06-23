@@ -1,5 +1,6 @@
 <!-- <div align=center><h3>STACKS</h3></div> -->
 
+<!--
 <div align=center> 
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -7,6 +8,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 </div>
+-->
 
 <!-- <div align=center><h3>Algoritm</h3> -->
 
