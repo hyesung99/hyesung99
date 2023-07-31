@@ -1,1 +1,2 @@
-<p> Based in Seoul</p> 
+### Based in Seoul
+### Human rather than computer
