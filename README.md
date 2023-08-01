@@ -1,2 +1,2 @@
 ### Based in Seoul
-### Human rather than computer
+### Human more than computer
